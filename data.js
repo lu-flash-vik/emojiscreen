@@ -107,7 +107,7 @@ const emojiItems = [
     {
         title: "Alien",
         emojiImgs: "🚀👾🔫👨‍🚀",
-        genres: ["suspense", "horror"],
+        genres: ["suspense", "horror", "sci-fi"],
         type: "movie",
         year: 1979,
         itemLink: "https://www.imdb.com/title/tt0078748/"
